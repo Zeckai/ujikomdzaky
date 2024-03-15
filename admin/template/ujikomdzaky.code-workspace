@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": "ujikomdzaky",
+		"path": "../.."
+	},
+	{
+		"name": "build",
+		"path": "../../../ujikomkasirdzaky/build"
+	},
+	{
+		"name": "plugins",
+		"path": "../../../ujikomkasirdzaky/plugins"
+	},
+	{
+		"name": "dist",
+		"path": "../../../ujikomkasirdzaky/dist"
+	}
+],
+  "settings": {}
+}
